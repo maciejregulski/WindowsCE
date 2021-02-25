@@ -1,0 +1,6 @@
+## Ignore Embedded Visual C++ temporary files, build results, and
+
+# Build generated files
+*.vcb
+*.vcl
+*.vco
